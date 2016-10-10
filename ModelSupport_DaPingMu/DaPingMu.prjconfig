@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.DaPingMu" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.uBasePlay" Type="System.String" Value="功能单元\OLE播放" IsBrowsable="False" />
+</TgConfig>

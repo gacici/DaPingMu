@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<namespace name="uWordPlay">
+  <class name="TWordPlay">
+    <ancestor name="TBasePlay" namespace="uBasePlay">
+      <methodref name="Create" visibility="public" />
+      <methodref name="Destroy" visibility="public" />
+      <methodref name="Play" visibility="private" />
+      <methodref name="SetFileName" visibility="private" />
+      <methodref name="HasNext" visibility="private" />
+      <methodref name="IsFinish" visibility="private" />
+      <methodref name="PlayNext" visibility="private" />
+      <methodref name="PlayPrev" visibility="private" />
+      <methodref name="Open" visibility="protected" />
+      <methodref name="Close" visibility="protected" />
+      <methodref name="Selected" visibility="protected" />
+      <methodref name="GetFileList" visibility="protected" />
+      <methodref name="PlayLoop" visibility="public" />
+      <methodref name="InitData" visibility="public" />
+      <propertyref name="TotalPage" visibility="public" />
+      <propertyref name="CurrentPage" visibility="public" />
+      <propertyref name="FileName" visibility="public" />
+      <propertyref name="DirPath" visibility="public" />
+      <eventref name="LogOutPut" visibility="public" />
+      <ancestor name="TPersistent" namespace="Classes">
+        <methodref name="AssignError" visibility="private">
+        </methodref>
+        <methodref name="AssignTo" visibility="protected">
+        </methodref>
+        <methodref name="DefineProperties" visibility="protected">
+        </methodref>
+        <methodref name="GetOwner" visibility="protected">
+        </methodref>
+        <methodref name="Destroy" visibility="public">
+        </methodref>
+        <methodref name="Assign" visibility="public">
+        </methodref>
+        <methodref name="GetNamePath" visibility="public">
+        </methodref>
+        <ancestor name="TObject" namespace="System">
+          <methodref name="Create" visibility="public">
+          </methodref>
+          <methodref name="Free" visibility="public">
+          </methodref>
+          <methodref name="InitInstance" visibility="public">
+          </methodref>
+          <methodref name="CleanupInstance" visibility="public">
+          </methodref>
+          <methodref name="ClassType" visibility="public">
+          </methodref>
+          <methodref name="ClassName" visibility="public">
+          </methodref>
+          <methodref name="ClassNameIs" visibility="public">
+          </methodref>
+          <methodref name="ClassParent" visibility="public">
+          </methodref>
+          <methodref name="ClassInfo" visibility="public">
+          </methodref>
+          <methodref name="InstanceSize" visibility="public">
+          </methodref>
+          <methodref name="InheritsFrom" visibility="public">
+          </methodref>
+          <methodref name="MethodAddress" visibility="public">
+          </methodref>
+          <methodref name="MethodName" visibility="public">
+          </methodref>
+          <methodref name="FieldAddress" visibility="public">
+          </methodref>
+          <methodref name="GetInterface" visibility="public">
+          </methodref>
+          <methodref name="GetInterfaceEntry" visibility="public">
+          </methodref>
+          <methodref name="GetInterfaceTable" visibility="public">
+          </methodref>
+          <methodref name="SafeCallException" visibility="public">
+          </methodref>
+          <methodref name="AfterConstruction" visibility="public">
+          </methodref>
+          <methodref name="BeforeDestruction" visibility="public">
+          </methodref>
+          <methodref name="Dispatch" visibility="public">
+          </methodref>
+          <methodref name="DefaultHandler" visibility="public">
+          </methodref>
+          <methodref name="NewInstance" visibility="public">
+          </methodref>
+          <methodref name="FreeInstance" visibility="public">
+          </methodref>
+          <methodref name="Destroy" visibility="public">
+          </methodref>
+        </ancestor>
+      </ancestor>
+    </ancestor>
+    <members>
+      <procedure name="Open" visibility="private" procflags="override">
+      </procedure>
+      <procedure name="Close" visibility="private" procflags="override">
+      </procedure>
+      <procedure name="Selected" visibility="private" procflags="override">
+      </procedure>
+      <function name="InitData" visibility="public" procflags="override">
+        <parameters>
+          <retval type="Boolean" />
+        </parameters>
+      </function>
+      <field name="nStart" type="Integer" visibility="private" />
+      <field name="nEnd" type="Integer" visibility="private" />
+      <field name="m_WordDoc" type="Variant" visibility="private" />
+    </members>
+  </class>
+</namespace>

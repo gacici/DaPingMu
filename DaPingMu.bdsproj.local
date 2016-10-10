@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015-08-10 10:48:49.542.pas,C:\Users\Administrator.XZ-20140210GASR\Documents\Borland Studio Projects\Unit2.pas=E:\工具\大屏幕\Source\uFrmMainDaPingMu.pas</Transaction>
+    <Transaction>2015-08-10 10:48:49.542.dfm,C:\Users\Administrator.XZ-20140210GASR\Documents\Borland Studio Projects\Unit2.dfm=E:\工具\大屏幕\Source\uFrmMainDaPingMu.dfm</Transaction>
+    <Transaction>2015-08-10 10:48:51.824.bdsproj,C:\Users\Administrator.XZ-20140210GASR\Documents\Borland Studio Projects\Project3.bdsproj=E:\工具\大屏幕\Source\Project3.bdsproj</Transaction>
+    <Transaction>2015-08-10 10:49:03.599.bdsproj,E:\工具\大屏幕\Source\Project3.bdsproj=E:\工具\大屏幕\Source\DaPingMu.bdsproj</Transaction>
+    <Transaction>2015-08-10 16:23:55.221.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能窗体\系统配置\uFrmSyConfig.pas</Transaction>
+    <Transaction>2015-08-10 16:23:55.221.dfm,E:\工具\大屏幕\Source\Unit1.dfm=E:\工具\大屏幕\Source\功能窗体\系统配置\uFrmSyConfig.dfm</Transaction>
+    <Transaction>2015-08-10 16:25:31.477.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\系统配置\uSysConfig.pas</Transaction>
+    <Transaction>2015-08-10 16:32:42.309.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\系统配置\uSyConfigOper.pas</Transaction>
+    <Transaction>2015-08-11 09:19:38.340.pas,E:\工具\大屏幕\Source\功能单元\系统配置\uSyConfigOper.pas=E:\工具\大屏幕\Source\功能单元\系统配置\uSysConfigOper.pas</Transaction>
+    <Transaction>2015-08-11 12:37:35.207.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能窗体\播放窗体\uFrmPlayer.pas</Transaction>
+    <Transaction>2015-08-11 12:37:35.207.dfm,E:\工具\大屏幕\Source\Unit1.dfm=E:\工具\大屏幕\Source\功能窗体\播放窗体\uFrmPlayer.dfm</Transaction>
+    <Transaction>2015-08-11 12:47:37.832.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\OLE播放\uOlePlay.pas</Transaction>
+    <Transaction>2015-08-11 12:49:41.715.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\OLE播放\uWordPlay.pas</Transaction>
+    <Transaction>2015-08-11 13:09:30.231.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\OLE播放\uPlayManager.pas</Transaction>
+    <Transaction>2015-08-11 14:43:59.814.pas,E:\工具\大屏幕\Source\功能单元\OLE播放\uPlayManager.pas=</Transaction>
+    <Transaction>2015-08-20 08:36:59.203.pas,E:\工具\大屏幕\Source\功能单元\OLE播放\uOlePlay.pas=</Transaction>
+    <Transaction>2015-08-21 11:15:39.518.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\ColorOle\uXOle.pas</Transaction>
+    <Transaction>2015-08-21 12:37:53.578.pas,E:\工具\大屏幕\Source\功能单元\ColorOle\uXOle.pas=</Transaction>
+    <Transaction>2015-08-21 13:45:12.367.pas,E:\工具\大屏幕\Source\功能单元\OLE播放\uOlePlay.pas=E:\工具\大屏幕\Source\功能单元\OLE播放\uBasePlay.pas</Transaction>
+    <Transaction>2015-08-21 13:50:16.351.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\OLE播放\uPlasyFactory.pas</Transaction>
+    <Transaction>2015-08-21 13:50:47.886.pas,E:\工具\大屏幕\Source\功能单元\OLE播放\uPlasyFactory.pas=E:\工具\大屏幕\Source\功能单元\OLE播放\uPlayFactory.pas</Transaction>
+    <Transaction>2015-08-21 14:19:20.685.pas,E:\工具\大屏幕\Source\Unit1.pas=E:\工具\大屏幕\Source\功能单元\Ole管理类\uOleManager.pas</Transaction>
+    <Transaction>2015-08-21 14:22:09.744.pas,E:\工具\大屏幕\Source\功能单元\OLE播放\uPlayFactory.pas=</Transaction>
+    <Transaction>2015-08-21 14:22:24.734.pas,E:\工具\大屏幕\Source\功能单元\Ole管理类\uOleManager.pas=E:\工具\大屏幕\Source\功能单元\Ole管理类\uPlayManager.pas</Transaction>
+    <Transaction>2015-08-21 14:26:39.023.pas,E:\工具\大屏幕\Source\功能单元\系统配置\uSysConfig.pas=E:\工具\大屏幕\Source\功能单元\系统配置\uPlayConfig.pas</Transaction>
+    <Transaction>2015-08-21 14:26:48.681.pas,E:\工具\大屏幕\Source\功能单元\系统配置\uSysConfigOper.pas=E:\工具\大屏幕\Source\功能单元\系统配置\uPlayConfigOper.pas</Transaction>
+    <Transaction>2015-08-24 10:05:21.414.pas,E:\外驻点标准化管理系统\03_分支\小工具\大屏幕\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\大屏幕\Source\功能单元\系统配置\uPlayConfigStrategy.pas</Transaction>
+    <Transaction>2015-08-24 10:52:25.694.pas,E:\外驻点标准化管理系统\03_分支\小工具\大屏幕\Source\Unit1.pas=E:\外驻点标准化管理系统\03_分支\小工具\大屏幕\Source\功能窗体\系统配置\选择播放\uFrmWindowSelect.pas</Transaction>
+    <Transaction>2015-08-24 10:52:25.694.dfm,E:\外驻点标准化管理系统\03_分支\小工具\大屏幕\Source\Unit1.dfm=E:\外驻点标准化管理系统\03_分支\小工具\大屏幕\Source\功能窗体\系统配置\选择播放\uFrmWindowSelect.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
